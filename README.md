@@ -1,6 +1,6 @@
 
 # 💈 BlackBarber Telegram Bot
-
+📄 This README is also available in: [Русский (README_ru.md)](README_ru.md)
 A Telegram bot for online bookings. It allows users to choose services, book appointments, and enables admins to manage schedules.
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
